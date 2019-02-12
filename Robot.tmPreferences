@@ -5,7 +5,7 @@
     <key>name</key>
     <string>Robot Framework Preferences</string>
     <key>scope</key>
-    <string>source.robot</string>
+    <string>source.robot, source.resource</string>
     <key>settings</key>
     <dict>
         <key>shellVariables</key>
