@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>robot</string>
+		<string>resource</string>
 	</array>
 	<key>name</key>
 	<string>Robot Framework syntax highlighting.</string>
